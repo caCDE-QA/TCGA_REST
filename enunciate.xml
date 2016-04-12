@@ -1,0 +1,17 @@
+<enunciate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://enunciate.webcohesion.com/schemas/enunciate-2.2.0.xsd">
+
+  <api-classes>
+    <include pattern="org.mayo.edu.tcga.**"/>
+  </api-classes>
+
+    <title>TCGA</title>
+    
+    <version>Beta</version>
+    
+    <description>Cancer Study Common Data Element REST Services</description>
+    
+     <namespaces>
+   <namespace uri="http://tcga.cloudapp.net:8080/tcga" id="services"/>
+ </namespaces>
+ 
+</enunciate>
