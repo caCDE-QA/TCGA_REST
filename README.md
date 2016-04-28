@@ -8,3 +8,4 @@ Could not figure out how to change the links for the pages to a location differe
 
 TODO - The queries are run using Dan Hanley's Store Class which is great, but transforms the results to Strings and therefore the results are sent directly to the caller.  Would like to alter the JSON results to add links so need to write different query mechanism.  Want to insert values which reference self as well as reference it's "relatives".
 
+       
